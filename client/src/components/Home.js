@@ -171,7 +171,7 @@ class Home extends React.Component {
                             <td>{AverageDurationAMZN}</td>
                           </tr>
                           <tr>
-                            <td>Your Expreience 1</td>
+                            <td>Your Expreience</td>
                             <td>{YourExpericenceAMZN}</td>
                           </tr>
                         </tbody>
@@ -202,7 +202,7 @@ class Home extends React.Component {
                             <td>{AverageDurationAMZN2}</td>
                           </tr>
                           <tr>
-                            <td>Your Expreience 1</td>
+                            <td>Your Expreience</td>
                             <td>{YourExpericenceAMZN2}</td>
                           </tr>
                         </tbody>
@@ -239,7 +239,7 @@ class Home extends React.Component {
                             <td>{AverageDurationFB}</td>
                           </tr>
                           <tr>
-                            <td>Your Expreience 1</td>
+                            <td>Your Expreience</td>
                             <td>{YourExpericenceFB}</td>
                           </tr>
                         </tbody>
@@ -270,7 +270,7 @@ class Home extends React.Component {
                             <td>{AverageDurationFB2}</td>
                           </tr>
                           <tr>
-                            <td>Your Expreience 1</td>
+                            <td>Your Expreience</td>
                             <td>{YourExpericenceFB2}</td>
                           </tr>
                         </tbody>
@@ -307,7 +307,7 @@ class Home extends React.Component {
                             <td>{AverageDurationLINKEDIN}</td>
                           </tr>
                           <tr>
-                            <td>Your Expreience 1</td>
+                            <td>Your Expreience</td>
                             <td>{YourExpericenceLINKEDIN}</td>
                           </tr>
                         </tbody>
@@ -338,7 +338,7 @@ class Home extends React.Component {
                             <td>{AverageDurationLINKEDIN2}</td>
                           </tr>
                           <tr>
-                            <td>Your Expreience 1</td>
+                            <td>Your Expreience</td>
                             <td>{YourExpericenceLINKEDIN2}</td>
                           </tr>
                         </tbody>
@@ -374,7 +374,7 @@ class Home extends React.Component {
                             <td>{AverageDurationGOOG}</td>
                           </tr>
                           <tr>
-                            <td>Your Expreience 1</td>
+                            <td>Your Expreience</td>
                             <td>{YourExpericenceGOOG}</td>
                           </tr>
                         </tbody>
@@ -405,7 +405,7 @@ class Home extends React.Component {
                             <td>{AverageDurationGOOG2}</td>
                           </tr>
                           <tr>
-                            <td>Your Expreience 1</td>
+                            <td>Your Expreience</td>
                             <td>{YourExpericenceGOOG2}</td>
                           </tr>
                         </tbody>
